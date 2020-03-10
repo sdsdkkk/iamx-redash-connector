@@ -1,0 +1,30 @@
+{
+  "name": "iamx-redash-connector",
+  "version": "0.0.1",
+  "description": "Redash Connector for IAMX",
+  "main": "lib/index.js",
+  "dependencies": {
+    "bluebird": "3.7.2"
+  },
+  "devDependencies": {
+    "jsonschema": "1.2.5",
+    "mocha": "7.0.1",
+    "chai": "4.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsdkkk/iamx-redash-connector.git"
+  },
+  "keywords": [
+    "IAM"
+  ],
+  "author": "Edwin Tunggawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdsdkkk/iamx-redash-connector/issues"
+  },
+  "homepage": "https://github.com/sdsdkkk/iamx-redash-connector#readme"
+}
