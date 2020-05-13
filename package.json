@@ -4,7 +4,8 @@
   "description": "Redash Connector for IAMX",
   "main": "lib/index.js",
   "dependencies": {
-    "bluebird": "3.7.2"
+    "bluebird": "3.7.2",
+    "superagent": "5.2.2"
   },
   "devDependencies": {
     "jsonschema": "1.2.5",
