@@ -1,6 +1,5 @@
 {
-  "name": "iamx-redash-connector",
-  "version": "0.0.1",
+  "name": "@cermati/iamx-redash-connector",
   "description": "Redash Connector for IAMX",
   "main": "lib/index.js",
   "dependencies": {
